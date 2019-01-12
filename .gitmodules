@@ -1,3 +1,7 @@
-[submodule "minimal-academic"]
+[submodule "theme-minimal-academic"]
 	path = themes
 	url = https://github.com/jhu247/minimal-academic
+	
+[submodule "public"]
+	path = public
+	url = https://github.com/anicksaha/anicksaha.github.io
