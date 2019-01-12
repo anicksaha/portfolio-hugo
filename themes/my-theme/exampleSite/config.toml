@@ -1,15 +1,15 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://anicksaha.github.io/"
+baseurl = "https://example.com"
 
 # Title of your site
-title = "Anick Saha"
+title = "Minimal Academic"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Anick Saha 2019"
+copyright = "&copy; Joshua Hu 2018"
 
-theme = "my-theme"
+theme = "minimal-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -38,12 +38,12 @@ enableGitInfo = false
 
 [params]
   # Your details.
-  name = "Anick Saha"
-  bio = "Living life like a party!"
+  name = "Minimal Academic"
+  bio = "A minimally academic theme."
 
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
-  location = ""
+  location = "San Francisco"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -69,19 +69,25 @@ enableGitInfo = false
   [[params.social]]
     icon = "instagram"
     icon_pack = "fa"
-    link = "//instagram.com/anick_saha"
+    link = "//instagram.com/jhu247"
     text = "Instagram"
 
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/anicksaha"
+    link = "//linkedin.com/in/joshua-hu-12290a43"
     text = "LinkedIn"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/jhu247"
+    text = "Twitter"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/anicksaha"
+    link = "//github.com/jhu247"
     text = "Github"
 
 # Taxonomies.
