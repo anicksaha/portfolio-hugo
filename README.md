@@ -2,7 +2,7 @@
 
 > Hugo project for portfolio site.
 
-Inside themes we need to pull our required theme as a submodule. (Check .gitsubmodule)
+Inside themes we need to pull our required theme as a submodule. (Check .gitmodules)
 
 Steps: 
 
