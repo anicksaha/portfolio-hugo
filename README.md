@@ -1,9 +1,5 @@
-### portfolio-hugo
+# portfolio-hugo
 
-> Hugo project for portfolio site.
-
-Inside themes we need to pull our required theme as a submodule. [Check [.gitmodules](https://github.com/anicksaha/portfolio-hugo/blob/master/.gitmodules)]
-
-Theme used: [minimal-academic](https://github.com/jhu247/minimal-academic)
-
-
+- https://gohugo.io/
+- https://gohugo.io/getting-started/installing/
+- https://www.codestudies.net/hugo-static-site-tutorials/
