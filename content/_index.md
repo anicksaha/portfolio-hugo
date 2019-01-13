@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Hi!"
 hero_image: "hero.jpg"
 nometadata: true
 notags: true
@@ -7,5 +7,11 @@ noshare: true
 nocomments: true
 ---
 
-<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, ex sit amet condimentum placerat, neque dolor facilisis purus, in elementum ex urna at ante. Praesent turpis leo, auctor at justo vel, dignissim imperdiet tellus. Vivamus nec orci luctus, pharetra mauris eget, tristique ligula. Integer elit lorem, blandit ut eros et, efficitur aliquet dui. Aenean sed orci lorem. Nulla facilisi. Cras sollicitudin odio eu erat sollicitudin, sit amet volutpat risus condimentum. Praesent blandit vitae magna pellentesque vestibulum. Nam et facilisis lacus. Proin malesuada est at tellus semper, vel porttitor massa malesuada.
+My name is Anick and I'm an artist of software. I love writing code, designing systems, and managing the communication of processes. Beyond my technical skills, I possess an aptitude for doodling and writing.
+
+I keep myself <a href="https://www.fitbit.com/user/4Z3GN9">active</a> by running, gymming, playing basketball, and table tennis.
+
+
+
+<h3>Consider this: </h3>
+“Attitude is a little thing that makes a big difference.” - Winston Churchill
